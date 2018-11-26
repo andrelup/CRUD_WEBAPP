@@ -1,0 +1,3 @@
+[submodule "MEAN_FRONTEND"]
+	path = MEAN_FRONTEND
+	url = https://github.com/andrelup/MEAN_FRONTEND.git
